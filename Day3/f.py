@@ -1,6 +1,5 @@
 from fmodule import A, process
 
-
 class subA(A):
     def func1(self):
         print("변경된 메소드")
